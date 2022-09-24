@@ -1052,8 +1052,8 @@ a:hover.back-to-top {
 }
 /* end of max-width 767px */
 
-/* Min-width 400px and Max-width 767px */
-@media (min-width: 400px) and (max-width: 767px) {
+/* Max-width 767px */
+@media (max-width: 767px) {
 
 	/* Services */
 	.basic-2 .text-box {
@@ -1062,7 +1062,7 @@ a:hover.back-to-top {
 	/* end of services */
 
 }
-/* end of min-width 400px and max-width 767px */
+/* end of max-width 767px */
 
 /* Min-width 992px and Max-width 1199px */
 @media (min-width: 992px) and (max-width: 1199px)  {
